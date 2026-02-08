@@ -1,1 +1,1 @@
-# my-java-learning-journey
+# java-basics
